@@ -1,2 +1,2 @@
-this is a config-dev.yml file
-dev   dev  dev  dev dev dev
+config:
+  info: this is a config-dev.yml file   dev   dev  dev  dev dev dev
